@@ -12,3 +12,7 @@ body {
   font-family: 'Source Serif 4', serif;
   font-size: 60px;
 }
+
+@theme {
+  --color-color-text: #281753;
+}
